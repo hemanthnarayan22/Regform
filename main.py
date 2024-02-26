@@ -16,4 +16,4 @@ def register():
 
 if __name__ == '__main__':
     print("HHHHH")
-    app.run(port=1234)
+    app.run()
